@@ -1,0 +1,22 @@
+#header {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  max-width: 100%;
+}
+
+#header img {
+  height: 70px;
+  margin-left: 50px;
+}
+
+#nav {
+  display: flex;
+  padding: 10px 10px;
+}
+
+#nav li {
+  margin: 30px;
+  list-style: none;
+}
