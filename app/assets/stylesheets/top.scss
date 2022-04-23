@@ -1,0 +1,20 @@
+#top {
+  height: 90vh;
+  width: 100%;
+  position: relative;
+}
+
+#top_text {
+  position: absolute;
+  left: 10%;
+  top: 30%;
+  font-size: 20px;
+}
+
+.top_image {
+  height: 80vh;
+  width: 60%;
+  margin-left: 30%;
+  margin-right: 10%;
+  object-fit: cover;
+}
